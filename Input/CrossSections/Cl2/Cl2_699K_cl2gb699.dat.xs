@@ -1,0 +1,32 @@
+# gas Cl2
+# T 699 K
+# reference: G.E. Gibson, N.S. Bayliss, Phys. Rev. 44, 188 (1933)
+# source: Input/modataXs/cl2gb699.dat
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# original header: Cl2 **, molecular chlorine, Gibson and Bayliss, 1933, 699 K / 1 number of tracks in this file / 1 number of y-values per line
+# wavelength_nm	sigma_cm2_per_molecule
+261.80000	9.932000e-21
+266.60000	1.451600e-20
+272.20000	2.253800e-20
+280.20000	5.118800e-20
+288.30000	7.869200e-20
+296.10000	1.123080e-19
+301.10000	1.321720e-19
+307.40000	1.581480e-19
+317.40000	1.753380e-19
+320.80000	1.795400e-19
+327.40000	1.803040e-19
+334.60000	1.783940e-19
+338.10000	1.753380e-19
+341.30000	1.726640e-19
+348.40000	1.642600e-19
+357.30000	1.371380e-19
+364.00000	1.188020e-19
+368.30000	1.077240e-19
+374.10000	9.168000e-20
+380.60000	7.831000e-20
+386.20000	6.608600e-20
+402.30000	4.125600e-20
+427.50000	1.910000e-20

@@ -1,0 +1,33 @@
+# gas Cl2
+# T 737 K
+# reference: R.G. Aickin, N.S. Bayliss, Trans. Faraday Soc. 33, 1333 (1937)
+# source: Input/modataXs/cl2ab737.dat
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# original header: Cl2 ** R.G. Aickin and N.S. Bayliss, 1937, 737 K / 1 number of tracks in this file / 1 number of y-values per line
+# wavelength_nm	sigma_cm2_per_molecule
+402.30000	3.896400e-20
+406.30000	3.438000e-20
+414.40000	2.502100e-20
+417.80000	2.242340e-20
+422.70000	1.940560e-20
+427.50000	1.676980e-20
+432.60000	1.440140e-20
+437.80000	1.218580e-20
+441.50000	1.096340e-20
+448.00000	9.053400e-21
+453.90000	7.487200e-21
+458.70000	6.226600e-21
+465.10000	4.851400e-21
+472.20000	3.743600e-21
+476.70000	3.438000e-21
+481.10000	2.941400e-21
+486.50000	2.483000e-21
+491.90000	1.948200e-21
+495.80000	1.719000e-21
+501.70000	1.337000e-21
+510.60000	9.550000e-22
+522.00000	7.258000e-22
+535.30000	2.674000e-22
+543.20000	1.528000e-22

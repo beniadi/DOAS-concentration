@@ -1,0 +1,33 @@
+# gas Cl2
+# T 456 K
+# reference: R.G. Aickin, N.S. Bayliss, Trans. Faraday Soc. 33, 1333 (1937)
+# source: Input/modataXs/cl2ab456.dat
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# original header: Cl2 ** R.G. Aickin and N.S. Bayliss, 1937, 456 K / 1 number of tracks in this file / 1 number of y-values per line
+# wavelength_nm	sigma_cm2_per_molecule
+402.30000	2.483000e-20
+406.30000	1.952020e-20
+414.40000	1.474520e-20
+417.80000	1.294980e-20
+422.70000	1.107800e-20
+427.50000	9.244400e-21
+432.60000	8.022000e-21
+437.80000	6.876000e-21
+441.50000	6.150200e-21
+448.00000	5.271600e-21
+453.90000	4.316600e-21
+458.70000	3.629000e-21
+465.10000	2.903200e-21
+472.20000	2.253800e-21
+476.70000	1.910000e-21
+481.10000	1.604400e-21
+486.50000	1.298800e-21
+491.90000	1.069600e-21
+495.80000	9.168000e-22
+501.70000	7.258000e-22
+510.60000	5.348000e-22
+522.00000	3.438000e-22
+535.30000	1.146000e-22
+543.20000	7.640000e-23

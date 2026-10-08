@@ -1,0 +1,32 @@
+# gas Cl2
+# T 1038 K
+# reference: G.E. Gibson, N.S. Bayliss, Phys. Rev. 44, 188 (1933)
+# source: Input/modataXs/cl2gb038.dat
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# original header: Cl2 **, molecular chlorine, Gibson and Bayliss, 1933, 1038 K / 1 number of tracks in this file / 1 number of y-values per line
+# wavelength_nm	sigma_cm2_per_molecule
+261.80000	1.604400e-20
+266.60000	2.444800e-20
+272.20000	3.399800e-20
+280.20000	5.921000e-20
+288.30000	8.824200e-20
+296.10000	1.153640e-19
+301.10000	1.306440e-19
+307.40000	1.447780e-19
+317.40000	1.623500e-19
+320.80000	1.638780e-19
+327.40000	1.661700e-19
+334.60000	1.646420e-19
+338.10000	1.615860e-19
+341.30000	1.573840e-19
+348.40000	1.459240e-19
+357.30000	1.317900e-19
+364.00000	1.199480e-19
+368.30000	1.123080e-19
+374.10000	1.023760e-19
+380.60000	8.938800e-20
+386.20000	7.410800e-20
+402.30000	5.271600e-20
+427.50000	2.788600e-20

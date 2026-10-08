@@ -1,0 +1,32 @@
+# gas CH3Cl
+# T 270 K
+# reference: P.C. Simon et al., 1988
+# source: Input/modataXs/ch3clsim.txt  [270 K column]
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# conversions: sigma x 1e-21
+# original header: CH3Cl (Simon et al., 1988a) / x 10E21 (cm2  molec.-1) / (nm)     295K      270K      250K      230K      210K
+# wavelength_nm	sigma_cm2_per_molecule
+174.00000	1.110000e-18
+176.00000	9.380000e-19
+178.00000	7.660000e-19
+180.00000	6.070000e-19
+182.00000	4.670000e-19
+184.00000	3.500000e-19
+186.00000	2.550000e-19
+188.00000	1.820000e-19
+190.00000	1.270000e-19
+192.00000	8.720000e-20
+194.00000	5.880000e-20
+196.00000	4.010000e-20
+198.00000	2.660000e-20
+200.00000	1.730000e-20
+202.00000	1.070000e-20
+204.00000	6.910000e-21
+206.00000	4.500000e-21
+208.00000	2.850000e-21
+210.00000	1.820000e-21
+212.00000	1.120000e-21
+214.00000	7.200000e-22
+216.00000	4.400000e-22

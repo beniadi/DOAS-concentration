@@ -1,0 +1,47 @@
+date                     2026-10-08T13:56:27
+spectrum                 D:\BeniAdiTrisna\PythonCoding\DOAS-concentration\Input\Mix_SO2_O3_NO2_HCHO_simulated.txt
+slit                     Gaussian (fwhm 0.5)
+window_nm                308.0000 326.0000
+T_K                      293.15
+P_Pa                     101325
+L_cm                     100000
+N_air_cm-3               2.50348e+19
+poly_order               3
+shift_nm                 0.0235636 ± 0.0039
+squeeze                  0 (fixed)
+poly_coef                1.1037755 -0.047136273 0.00094385506 -2.9249656e-05
+rms                      0.000203697
+chi2_red                 4.25533e-08
+r2                       0.99995944
+pixels                   361
+warnings                 none
+xs_SO2                   
+scd_SO2_cm-2             2.0081831e+16 ± 3.358e+14
+n_SO2_cm-3               2.0081831e+11 ± 3.358e+09
+ppb_SO2                  8.0215791 ± 0.1341
+diff_od_SO2              0.004728
+reference_ppb_SO2        8
+xs_O3                    
+scd_O3_cm-2              1.543518e+17 ± 5.336e+15
+n_O3_cm-3                1.543518e+12 ± 5.336e+10
+ppb_O3                   61.654996 ± 2.132
+diff_od_O3               0.00121
+reference_ppb_O3         60
+xs_NO2                   
+scd_NO2_cm-2             6.3077614e+16 ± 1.71e+15
+n_NO2_cm-3               6.3077614e+11 ± 1.71e+10
+ppb_NO2                  25.196013 ± 0.6831
+diff_od_NO2              0.001624
+reference_ppb_NO2        25
+xs_HCHO                  
+scd_HCHO_cm-2            2.5322991e+16 ± 7.019e+14
+n_HCHO_cm-3              2.5322991e+11 ± 7.019e+09
+ppb_HCHO                 10.115132 ± 0.2804
+diff_od_HCHO             0.001651
+reference_ppb_HCHO       10
+corr_SO2_O3              -0.3041
+corr_SO2_NO2             +0.0624
+corr_SO2_HCHO            -0.0101
+corr_O3_NO2              -0.1909
+corr_O3_HCHO             -0.0019
+corr_NO2_HCHO            -0.1115

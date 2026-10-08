@@ -1,0 +1,36 @@
+# gas COCl2
+# T unknown
+# reference: JPL report and CODATA preferred values
+# source: Input/modataXs/psgjpl.dat
+# kind: absolute
+# unit: cm2/molecule
+# wavelength scale: as given in the source (assumed air)
+# original header: COCl2 preferred values (JPL-report and CODATA) by Chou (77) and Okabe (77) / 1  number of tracks in this file / 1  number of y-values per line
+# wavelength_nm	sigma_cm2_per_molecule
+184.90000	2.040000e-18
+186.00000	1.890000e-18
+187.80000	1.370000e-18
+189.60000	1.170000e-18
+191.40000	9.370000e-19
+193.20000	6.970000e-19
+195.10000	5.250000e-19
+197.00000	4.100000e-19
+199.00000	3.180000e-19
+201.00000	2.500000e-19
+203.00000	2.040000e-19
+205.10000	1.690000e-19
+207.30000	1.510000e-19
+209.40000	1.340000e-19
+211.60000	1.220000e-19
+213.90000	1.170000e-19
+216.20000	1.160000e-19
+218.60000	1.190000e-19
+221.00000	1.230000e-19
+223.50000	1.280000e-19
+226.00000	1.320000e-19
+240.00000	1.200000e-19
+250.00000	8.360000e-20
+253.70000	6.740000e-20
+260.00000	4.430000e-20
+270.00000	1.580000e-20
+280.00000	5.300000e-21

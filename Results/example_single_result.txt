@@ -1,0 +1,23 @@
+date                     2026-10-08T13:56:25
+spectrum                 D:\BeniAdiTrisna\PythonCoding\DOAS-concentration\Input\SO2_simulated_15ppb.txt
+slit                     Gaussian (fwhm 0.5)
+window_nm                300.0000 320.0000
+T_K                      293.15
+P_Pa                     101325
+L_cm                     100000
+N_air_cm-3               2.50348e+19
+poly_order               3
+shift_nm                 0.0229579 ± 0.0017
+squeeze                  0 (fixed)
+poly_coef                1.1305264 -0.055157447 0.0014465416 -9.8193065e-05
+rms                      0.000408665
+chi2_red                 1.69544e-07
+r2                       0.99988455
+pixels                   401
+warnings                 none
+xs_SO2                   
+scd_SO2_cm-2             3.751332e+16 ± 1.911e+14
+n_SO2_cm-3               3.751332e+11 ± 1.911e+09
+ppb_SO2                  14.984494 ± 0.07632
+diff_od_SO2              0.0211
+reference_ppb_SO2        15

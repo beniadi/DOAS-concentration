@@ -1,0 +1,393 @@
+source,reason
+35dmba.ref,"emission-line list / lamp reference, not a cross section"
+HCHO2000.DAT,same data as hchomoor.dat
+HCHOMOO2.DAT,identical copy of HCHO2000.DAT
+IO_helsch.doc,document / program / plot file
+O4/O4_100B.DAT,"relative units, no header"
+O4/O4_200B.DAT,"relative units, no header"
+O4/o4oli.OPJ,document / program / plot file
+OClOIUPB233.dat,same data as oclo-iup.dat  [233 K column]
+Oxygen/O2a270a.ref,identical copy of o2a270a.ref
+SOLARFL.vac,"solar spectrum, not a cross section"
+acnlak.dat,decadic/natural molar extinction (epsilon) - base not stated
+albedo.dat,"surface albedo (soil), not a cross section"
+aromate/hg1.txt,Hg lamp spectrum (wavelength calibration)
+aromate/hg2.txt,Hg lamp spectrum (wavelength calibration)
+aromate/std/124tmb.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/135tmb.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/23dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/246tmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/24dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/25dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/26dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/34dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/35dmp.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/benzalde.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/benzol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/ethylbe.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/instru.std,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/mkresol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/mtolyla.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/mxylol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/okresob.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/otolyla.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/oxylol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/phenolc.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/pkresolc.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/ptolyla.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/pxylol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/styrol.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/std/toluolc.wir,OMA spectrum without wavelength axis (the same compounds are in aromate/xls with wavelengths)
+aromate/toluene.opj,document / program / plot file
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/124TMB.XLS,same data as aromate/xls/124tmb.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/135TMB.XLS,identical copy of aromate/xls/135tmb.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/23DMP.XLS,identical copy of aromate/xls/23dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/246TMP.XLS,identical copy of aromate/xls/246tmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/24DMP.XLS,identical copy of aromate/xls/24dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/25DMP.XLS,same data as aromate/xls/25dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/26DMP.XLS,identical copy of aromate/xls/26dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/34DMP.XLS,identical copy of aromate/xls/34dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/35DMP.XLS,identical copy of aromate/xls/35dmp.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/BENZALDE.XLS,same data as aromate/xls/benzalde.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/BENZENE.XLS,same data as aromate/xls/benzene.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/ETHYLBE.XLS,same data as aromate/xls/ethylbe.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/HG1.XLS,Hg lamp spectrum (wavelength calibration)
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/HG2.XLS,identical copy of aromate/xls/hg2.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/MCRESOL.XLS,identical copy of aromate/xls/mcresol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/MTOLYLA.XLS,identical copy of aromate/xls/mtolyla.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/MXYLOL.XLS,same data as aromate/xls/mxylol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/OCRESOL.XLS,identical copy of aromate/xls/ocresol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/OTOLYLA.XLS,identical copy of aromate/xls/otolyla.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/OXYLOL.XLS,same data as aromate/xls/oxylol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/PCRESOL.XLS,same data as aromate/xls/pcresol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/PHENOL.XLS,same data as aromate/xls/phenol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/PTOLYLA.XLS,identical copy of aromate/xls/ptolyla.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/PXYLOL.XLS,same data as aromate/xls/pxylol.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/STYRENE.XLS,same data as aromate/xls/styrene.xls
+aromate/xls/arowq.zip::MODATA/AROMATE/XLS/TOLUENE.XLS,same data as aromate/xls/toluene.xls
+aromate/xls/hg1.xls,Hg lamp spectrum (wavelength calibration)
+aromate/xls/hg2.xls,Hg lamp spectrum (wavelength calibration)
+bremen/o3.zip::o3_203h.dat,identical copy of o3_203h.dat
+bremen/o3.zip::o3_203l.dat,identical copy of o3_203l.dat
+bremen/o3.zip::o3_223h.dat,identical copy of o3_223h.dat
+bremen/o3.zip::o3_223l.dat,identical copy of o3_223l.dat
+bremen/o3.zip::o3_246h.dat,identical copy of o3_246h.dat
+bremen/o3.zip::o3_246l.dat,identical copy of o3_246l.dat
+bremen/o3.zip::o3_280h.dat,identical copy of o3_280h.dat
+bremen/o3.zip::o3_280l.dat,identical copy of o3_280l.dat
+bremen/o3.zip::o3_293h.dat,identical copy of o3_293h.dat
+bremen/o3.zip::o3_293l.dat,identical copy of o3_293l.dat
+bremen/o3_293l.dat,identical copy of o3_293l.dat
+bremen/readme.no2,identical copy of no2_xxxx.txt
+bremen/readme.o3,text / index / readme file
+bro.dat,same data as brow298.dat
+ch3clsim.txt  [295 K column],same data as ch3cl295.dat
+copy.com,document / program / plot file
+dbmgil.txt  [295 K column],same data as dbm295.dat
+dimmpi.int,same data as ch2i2_294k_s1.txt
+filrg100.dat,glass filter transmission curve
+filrg850.dat,glass filter transmission curve
+filug1.dat,glass filter transmission curve
+filug3.dat,glass filter transmission curve
+filug5.dat,glass filter transmission curve
+formalde.grf,document / program / plot file
+gerd/io_xsn.dat,same data as gerd/io_hd.dat
+h2o/8000-end.par,"HITRAN line parameters, not a cross section"
+h2o/H2OREF.DAT,no header; smooth values ~1e-30 cm2 at 400-410 nm - identity unclear
+h2o/esa-wv-readme.txt,text / index / readme file
+h2o/esawv.dat,no numeric data readable
+h2o/readme.doc,document / program / plot file
+h2o/spek.exe,document / program / plot file
+h2o/spek.ini,document / program / plot file
+h2o_100.298,single column without wavelength information
+hcho2000.OPJ,document / program / plot file
+hcho2000.xls,Excel copy of the Meller & Moortgat e-mail (data as text in one column; see hchomoor.dat)
+hchocal.ftn,document / program / plot file
+hchocal.org,temperature-fit coefficients vs wavenumber (evaluated at 296 K in hchocal.dat)
+hchocal.slo,document / program / plot file
+hchocal.tsk,document / program / plot file
+hchocal1.dat,same data as hchocal.dat
+hchomoor.dat  [block 3],"attachment 3 is the temperature gradient d(sigma)/dT, not a cross section"
+hchompi.dat,identical copy of hchompi.010
+hchosny.dat,"absorption coefficient in cm-1 atm-1 (vacuum UV, 105-185 nm), base not stated"
+hg.OPJ,document / program / plot file
+hglamp.asc,Hg lamp spectrum (wavelength calibration)
+hglamp.xls,Hg lamp spectrum (wavelength calibration)
+hno2jo.dat,unit uncertain: values 0.2-13 'cm**2' fit no power of ten against the other HONO data
+hono_hd.dat,same data as stutz_hono.zip::hono_stutz.dat
+io.dat,"arbitrary units (IO, not baseline corrected)"
+kurutzoriguv.ktz,"solar spectrum, not a cross section"
+l,identical copy of hchocal.org
+lines(nist).hg,"emission-line list / lamp reference, not a cross section"
+lines.ar,"emission-line list / lamp reference, not a cross section"
+lines.b,"emission-line list / lamp reference, not a cross section"
+lines.ca,"emission-line list / lamp reference, not a cross section"
+lines.cd,"emission-line list / lamp reference, not a cross section"
+lines.cs,"emission-line list / lamp reference, not a cross section"
+lines.fe,"emission-line list / lamp reference, not a cross section"
+lines.hg,"emission-line list / lamp reference, not a cross section"
+lines.li,"emission-line list / lamp reference, not a cross section"
+lines.mg,"emission-line list / lamp reference, not a cross section"
+lines.n,"emission-line list / lamp reference, not a cross section"
+lines.na,"emission-line list / lamp reference, not a cross section"
+lines.ne,"emission-line list / lamp reference, not a cross section"
+lines.o,"emission-line list / lamp reference, not a cross section"
+lines.ref,"emission-line list / lamp reference, not a cross section"
+macbir.dat,plotter millimetres (Y-unit mm) without a conversion factor
+modata.dir,document / program / plot file
+modata.doc,document / program / plot file
+modata.rtf,document / program / plot file
+modata.txt,text / index / readme file
+moon1.dat,lunar reflectance spectrum
+moon2.dat,lunar reflectance spectrum
+mvkmpi.grf,document / program / plot file
+nadir.dat,"LOWTRAN-7 radiance, not a cross section"
+nadirir.dat,"LOWTRAN-7 radiance, not a cross section"
+nadiruv.dat,"LOWTRAN-7 radiance, not a cross section"
+no2235.dat,wavelength column only (the data are printed in the paper)
+no2298.dat,wavelength column only (the data are printed in the paper)
+no2_05b.dat,joined into the no2_05a.dat data set
+no2_223h.zip::No2_223h.dat,identical copy of bremen/no2_223h.zip::No2_223h.dat
+no2_223l.zip::No2_223l.dat,identical copy of bremen/no2_223l.zip::No2_223l.dat
+no2_246h.zip::No2_246h.dat,identical copy of bremen/no2_246h.zip::No2_246h.dat
+no2_246l.zip::No2_246l.dat,identical copy of bremen/no2_246l.zip::No2_246l.dat
+no2_280h.zip::no2_280h.dat,identical copy of no2_280h.dat
+no2_xxxx.txt,text / index / readme file
+no2bas.org,"extinction coefficients (Bass 1976), not cross sections in cm2"
+no2cmp.txt,"comparison table, not a spectrum"
+no2frost.zip::NO2_05A.DAT,identical copy of no2_05a.dat
+no2harder294.OPJ,document / program / plot file
+no2hlp.txt,text / index / readme file
+no2hono.zip::hono_hd.dat,identical copy of hono_hd.dat
+no2hono.zip::no2noaa.294,identical copy of no2noaa.294
+no2mpi.xls,same data as no2mpi.dat
+no3san.dat,plotter millimetres (Y-unit mm); the same Sander data are in no3s298.dat
+o2a245a.ref,"emission-line list / lamp reference, not a cross section"
+o2a265.ref,"emission-line list / lamp reference, not a cross section"
+o2a270a.ref,"emission-line list / lamp reference, not a cross section"
+o2a274.ref,"emission-line list / lamp reference, not a cross section"
+o2a284.ref,"emission-line list / lamp reference, not a cross section"
+o3.org,same data as o3.dat
+o3dat.std,same data as o3.dat
+o3mol.dat,single column without wavelengths
+o4_1s1s.dat,relative units (R. Volkamer 1996)
+o4green.dat,"O2 absorbance at 55 atm, relative units"
+obro.dat,"relative absorption (OBrO), no cross-section unit"
+oclo_iupbremen233K.dat,same data as oclo-iup.dat  [233 K column]
+oclofro2.1_p,joined into the oclofro1.1_p data set
+oclofro3.1_p,joined into the oclofro1.1_p data set
+omaexi.ocl,text / index / readme file
+orgref.zip::MACBIR.DAT,identical copy of macbir.dat
+orgref.zip::MACMPI.DAT,identical copy of macmpi.dat
+orgref.zip::MACMPI.INT,identical copy of macmpi.int
+orgref.zip::MEJRED.DAT,identical copy of mejred.dat
+orgref.zip::MEJVUV.DAT,identical copy of mejvuv.dat
+orgref.zip::MEKMPI.DAT,identical copy of mekmpi.dat
+orgref.zip::METHAR.DAT,identical copy of methar.dat
+orgref.zip::MGMPI.DAT,identical copy of mgmpi.dat
+orgref.zip::MGMPI.INT,identical copy of mgmpi.int
+orgref.zip::MGPITTS.DAT,identical copy of mgpitts.dat
+orgref.zip::MOON1.DAT,identical copy of moon1.dat
+orgref.zip::MOON2.DAT,identical copy of moon2.dat
+orgref.zip::MVKBIR.DAT,identical copy of mvkbir.dat
+orgref.zip::MVKMPI.DAT,identical copy of mvkmpi.dat
+orgref.zip::MVKMPI.GRF,identical copy of mvkmpi.grf
+pansen.dat,three values only
+panste.org,same data as panste.dat
+refmainz.zip::ACETOLMP.DAT,identical copy of acetolmp.dat
+refmainz.zip::ACHMPI.DAT,identical copy of achmpi.dat
+refmainz.zip::ACHMPI.INT,identical copy of achmpi.int
+refmainz.zip::ACNLAK.DAT,identical copy of acnlak.dat
+refmainz.zip::ACNMPI.INT,identical copy of acnmpi.int
+refmainz.zip::ALBEDO.DAT,identical copy of albedo.dat
+refmainz.zip::BR2CONT.DAT,identical copy of br2cont.dat
+refmainz.zip::BR2MCM.DAT,identical copy of br2mcm.dat
+refmainz.zip::BR2PC298.DAT,identical copy of br2pc298.dat
+refmainz.zip::BR2RED.DAT,identical copy of br2red.dat
+refmainz.zip::BR2SB298.DAT,identical copy of br2sb298.dat
+refmainz.zip::BRCLMAR.DAT,identical copy of brclmar.dat
+refmainz.zip::BRCLMPI.DAT,identical copy of brclmpi.dat
+refmainz.zip::BROW228.DAT,identical copy of brow228.dat
+refmainz.zip::BROW228.ORG,identical copy of brow228.org
+refmainz.zip::BROW243.DAT,identical copy of brow243.dat
+refmainz.zip::BROW243.ORG,identical copy of brow243.org
+refmainz.zip::BROW298.DAT,identical copy of brow298.dat
+refmainz.zip::BROW298.ORG,identical copy of brow298.org
+refmainz.zip::CH2CL2ST.DAT,identical copy of ch2cl2st.dat
+refmainz.zip::CH3CL295.DAT,identical copy of ch3cl295.dat
+refmainz.zip::CH3CLROB.DAT,identical copy of ch3clrob.dat
+refmainz.zip::CH3CLSIM.TXT,identical copy of ch3clsim.txt
+refmainz.zip::CHCL3SIM.DAT,identical copy of chcl3sim.dat
+refmainz.zip::CL2AB291.DAT,identical copy of cl2ab291.dat
+refmainz.zip::CL2AB456.DAT,identical copy of cl2ab456.dat
+refmainz.zip::CL2AB593.DAT,identical copy of cl2ab593.dat
+refmainz.zip::CL2AB737.DAT,identical copy of cl2ab737.dat
+refmainz.zip::CL2AB849.DAT,identical copy of cl2ab849.dat
+refmainz.zip::CL2AB982.DAT,identical copy of cl2ab982.dat
+refmainz.zip::CL2BB195.DAT,identical copy of cl2bb195.dat
+refmainz.zip::CL2BB301.DAT,identical copy of cl2bb301.dat
+refmainz.zip::CL2GB038.DAT,identical copy of cl2gb038.dat
+refmainz.zip::CL2GB291.DAT,identical copy of cl2gb291.dat
+refmainz.zip::CL2GB441.DAT,identical copy of cl2gb441.dat
+refmainz.zip::CL2GB554.DAT,identical copy of cl2gb554.dat
+refmainz.zip::CL2GB699.DAT,identical copy of cl2gb699.dat
+refmainz.zip::CL2GB853.DAT,identical copy of cl2gb853.dat
+refmainz.zip::CL2HS293.DAT,identical copy of cl2hs293.dat
+refmainz.zip::CL2JS291.DAT,identical copy of cl2js291.dat
+refmainz.zip::CL2MAR.DAT,identical copy of cl2mar.dat
+refmainz.zip::CL2MPI.INT,identical copy of cl2mpi.int
+refmainz.zip::CL2O2.DAT,identical copy of cl2o2.dat
+refmainz.zip::CL2OMPI.DAT,identical copy of cl2ompi.dat
+refmainz.zip::CL2RED.DAT,identical copy of cl2red.dat
+refmainz.zip::CL2ROX.DAT,identical copy of cl2rox.dat
+refmainz.zip::CL2SB298.DAT,identical copy of cl2sb298.dat
+refmainz.zip::CLOMPI.DAT,identical copy of clompi.dat
+refmainz.zip::CLOSAN.DAT,identical copy of closan.dat
+refmainz.zip::COF2CHOU.INT,identical copy of cof2chou.int
+refmainz.zip::COF2JPL.INT,identical copy of cof2jpl.int
+refmainz.zip::COF2MOL.INT,identical copy of cof2mol.int
+refmainz.zip::COF2MPI.DAT,identical copy of cof2mpi.dat
+refmainz.zip::COF2WO1.DAT,identical copy of cof2wo1.dat
+refmainz.zip::COF2WO2.DAT,identical copy of cof2wo2.dat
+refmainz.zip::COPY.COM,identical copy of copy.com
+refmainz.zip::CS2MPI.INT,identical copy of cs2mpi.int
+refmainz.zip::CS2WU.DAT,identical copy of cs2wu.dat
+refmainz.zip::CS2WU.ORG,identical copy of cs2wu.org
+refmainz.zip::DBM295.DAT,identical copy of dbm295.dat
+refmainz.zip::DBMGIL.TXT,identical copy of dbmgil.txt
+refmainz.zip::DBMMOL.DAT,identical copy of dbmmol.dat
+refmainz.zip::DIMMPI.INT,identical copy of dimmpi.int
+refmainz.zip::FILRG100.DAT,identical copy of filrg100.dat
+refmainz.zip::FILRG850.DAT,identical copy of filrg850.dat
+refmainz.zip::FILUG1.DAT,identical copy of filug1.dat
+refmainz.zip::FILUG3.DAT,identical copy of filug3.dat
+refmainz.zip::FILUG5.DAT,identical copy of filug5.dat
+refmainz.zip::HCHOBAS.DAT,identical copy of hchobas.dat
+refmainz.zip::HCHOCAL.DAT,identical copy of hchocal.dat
+refmainz.zip::HCHOCAL.FTN,identical copy of hchocal.ftn
+refmainz.zip::HCHOCAL.ORG,identical copy of hchocal.org
+refmainz.zip::HCHOCAL.SLO,identical copy of hchocal.slo
+refmainz.zip::HCHOCAL.TSK,identical copy of hchocal.tsk
+refmainz.zip::HCHOMOO.DAT,identical copy of hchomoo.dat
+refmainz.zip::HCHOMPI.010,identical copy of hchompi.010
+refmainz.zip::HCHOSNY.DAT,identical copy of hchosny.dat
+refmainz.zip::HCOFMPI.DAT,identical copy of hcofmpi.dat
+refmainz.zip::HGLAMP.ASC,identical copy of hglamp.asc
+refmainz.zip::HNO2JO.DAT,identical copy of hno2jo.dat
+refmainz.zip::HONOCNRS.DAT,identical copy of honocnrs.dat
+refmainz.zip::L,identical copy of hchocal.org
+refmainz.zip::MACBIR.DAT,identical copy of macbir.dat
+refmainz.zip::MACMPI.DAT,identical copy of macmpi.dat
+refmainz.zip::MACMPI.INT,identical copy of macmpi.int
+refmainz.zip::MEJRED.DAT,identical copy of mejred.dat
+refmainz.zip::MEJVUV.DAT,identical copy of mejvuv.dat
+refmainz.zip::MEKMPI.DAT,identical copy of mekmpi.dat
+refmainz.zip::METHAR.DAT,identical copy of methar.dat
+refmainz.zip::MGMPI.DAT,identical copy of mgmpi.dat
+refmainz.zip::MGMPI.INT,identical copy of mgmpi.int
+refmainz.zip::MGPITTS.DAT,identical copy of mgpitts.dat
+refmainz.zip::MOON1.DAT,identical copy of moon1.dat
+refmainz.zip::MOON2.DAT,identical copy of moon2.dat
+refmainz.zip::MVKBIR.DAT,identical copy of mvkbir.dat
+refmainz.zip::MVKMPI.DAT,identical copy of mvkmpi.dat
+refmainz.zip::MVKMPI.GRF,identical copy of mvkmpi.grf
+refmainz.zip::NADIR.DAT,identical copy of nadir.dat
+refmainz.zip::NADIRIR.DAT,identical copy of nadirir.dat
+refmainz.zip::NADIRUV.DAT,identical copy of nadiruv.dat
+refmainz.zip::NO2235.DAT,identical copy of no2235.dat
+refmainz.zip::NO2298.DAT,identical copy of no2298.dat
+refmainz.zip::NO2BAS.ORG,identical copy of no2bas.org
+refmainz.zip::NO2CMP.TXT,identical copy of no2cmp.txt
+refmainz.zip::NO2HAL.DAT,identical copy of no2hal.dat
+refmainz.zip::NO2HAR.DAT,identical copy of no2har.dat
+refmainz.zip::NO2HLP.TXT,identical copy of no2hlp.txt
+refmainz.zip::NO2MPI.DAT,identical copy of no2mpi.dat
+refmainz.zip::NO2MPI.INT,identical copy of no2mpi.int
+refmainz.zip::NO2NAK.DAT,identical copy of no2nak.dat
+refmainz.zip::NO3GJ298.DAT,identical copy of no3gj298.dat
+refmainz.zip::NO3JPL.DAT,identical copy of no3jpl.dat
+refmainz.zip::NO3S230.DAT,identical copy of no3s230.dat
+refmainz.zip::NO3S298.DAT,identical copy of no3s298.dat
+refmainz.zip::NO3SAN.DAT,identical copy of no3san.dat
+refmainz.zip::O2GREE.DAT,identical copy of o2gree.dat
+refmainz.zip::O2GREE.ORG,identical copy of o2gree.org
+refmainz.zip::O2YOSH.DAT,identical copy of o2yosh.dat
+refmainz.zip::O2YOSH.ORG,identical copy of o2yosh.org
+refmainz.zip::O3.DAT,identical copy of o3.dat
+refmainz.zip::O3.ORG,identical copy of o3.org
+refmainz.zip::O3AND1.DAT,identical copy of o3and1.dat
+refmainz.zip::O3BAS.DAT,identical copy of o3bas.dat
+refmainz.zip::O3C220.DAT,identical copy of o3c220.dat
+refmainz.zip::O3C293.DAT,identical copy of o3c293.dat
+refmainz.zip::O3DAT.STD,identical copy of o3dat.std
+refmainz.zip::O3JOHN.DAT,identical copy of o3john.dat
+refmainz.zip::O3MOL.DAT,identical copy of o3mol.dat
+refmainz.zip::O3NASA.DAT,identical copy of o3nasa.dat
+refmainz.zip::OCLOWAH0.DAT,identical copy of oclowah.378
+refmainz.zip::OCLOWAH1.DAT,identical copy of oclowah.378
+refmainz.zip::OCLOWAH2.DAT,identical copy of oclowah.204
+refmainz.zip::OCLOWAH3.DAT,same data as oclowah.204
+refmainz.zip::OCLOWAH4.DAT,identical copy of oclowah.298
+refmainz.zip::OCLOWAHH.DAT,identical copy of oclowah.378
+refmainz.zip::OCLOWAHL.DAT,identical copy of oclowah.204
+refmainz.zip::OCLOWAHR.DAT,identical copy of oclowah.298
+refmainz.zip::OMAEXI.OCL,identical copy of omaexi.ocl
+refmainz.zip::ORGREF.ZIP::MACBIR.DAT,identical copy of macbir.dat
+refmainz.zip::ORGREF.ZIP::MACMPI.DAT,identical copy of macmpi.dat
+refmainz.zip::ORGREF.ZIP::MACMPI.INT,identical copy of macmpi.int
+refmainz.zip::ORGREF.ZIP::MEJRED.DAT,identical copy of mejred.dat
+refmainz.zip::ORGREF.ZIP::MEJVUV.DAT,identical copy of mejvuv.dat
+refmainz.zip::ORGREF.ZIP::MEKMPI.DAT,identical copy of mekmpi.dat
+refmainz.zip::ORGREF.ZIP::METHAR.DAT,identical copy of methar.dat
+refmainz.zip::ORGREF.ZIP::MGMPI.DAT,identical copy of mgmpi.dat
+refmainz.zip::ORGREF.ZIP::MGMPI.INT,identical copy of mgmpi.int
+refmainz.zip::ORGREF.ZIP::MGPITTS.DAT,identical copy of mgpitts.dat
+refmainz.zip::ORGREF.ZIP::MOON1.DAT,identical copy of moon1.dat
+refmainz.zip::ORGREF.ZIP::MOON2.DAT,identical copy of moon2.dat
+refmainz.zip::ORGREF.ZIP::MVKBIR.DAT,identical copy of mvkbir.dat
+refmainz.zip::ORGREF.ZIP::MVKMPI.DAT,identical copy of mvkmpi.dat
+refmainz.zip::ORGREF.ZIP::MVKMPI.GRF,identical copy of mvkmpi.grf
+refmainz.zip::PANHEN.DAT,identical copy of panhen.dat
+refmainz.zip::PANSEN.DAT,identical copy of pansen.dat
+refmainz.zip::PANSTE.DAT,identical copy of panste.dat
+refmainz.zip::PANSTE.ORG,identical copy of panste.org
+refmainz.zip::PSGJPL.DAT,identical copy of psgjpl.dat
+refmainz.zip::PSGMPI.INT,identical copy of psgmpi.int
+refmainz.zip::README.1ST,document / program / plot file
+refmainz.zip::SO2.DAT,identical copy of so2.dat
+refmainz.zip::SO2210.DAT,identical copy of so2210.dat
+refmainz.zip::SO2295.DAT,identical copy of so2295.dat
+refmainz.zip::SO2BRA.DAT,identical copy of so2bra.dat
+refmainz.zip::SO2FRE.005,identical copy of so2fre.005
+refmainz.zip::SO2FRE.015,identical copy of so2fre.015
+refmainz.zip::SO2FRE.200,identical copy of so2fre.200
+refmainz.zip::SO2THO.DAT,identical copy of so2tho.dat
+refmainz.zip::SO2WAR.DAT,identical copy of so2war.dat
+refmainz.zip::SO2WOO.DAT,identical copy of so2woo.dat
+refmainz.zip::SO2WOO.ORG,identical copy of so2woo.org
+refmainz.zip::SO2_2.NM,identical copy of so2vandaele
+refmainz.zip::SO2_BRMG.STD,identical copy of so2_brmg.std
+refmainz.zip::SOLKUR.INT,identical copy of solkur.int
+refmainz.zip::TBMCOX.DAT,identical copy of tbmcox.dat
+refmainz.zip::TBMGIL.DAT,identical copy of tbmgil.dat
+refmainz.zip::TBMMPI.DAT,identical copy of tbmmpi.dat
+refmainz.zip::TBMMPI.OLD,identical copy of tbmmpi.old
+refmainz.zip::TBMTAT.DAT,identical copy of tbmtat.dat
+refmainz.zip::TFACMPI.INT,identical copy of tfacmpi.int
+refmainz.zip::TFAFMPI.INT,identical copy of tfafmpi.int
+scratch.dat,same data as oclowah.204
+so2_brmg.std,OMA spectrum without wavelength axis
+so2war.dat,values are plotter millimetres (Y-unit mm) without a conversion factor
+sol_info.txt,"solar spectrum, not a cross section"
+solar_fl.txt,"solar spectrum, not a cross section"
+solkur.int,"solar spectrum, not a cross section"
+stutz_hono.zip::2000JD900003.pdf,document / program / plot file
+stutz_hono.zip::stutz.txt,text / index / readme file
+tbmtat.dat,optical density in arbitrary units
+te,text / index / readme file
+untitled.opj,document / program / plot file
+ws_ftp.log,document / program / plot file
+xx.dat,same data as honocnrs.dat
+zip/no2_05a.dat,identical copy of no2_05a.dat
+zipno2/NO2_05A.DAT,identical copy of no2_05a.dat
+zipno2/no2frost.zip::NO2_05A.DAT,identical copy of no2_05a.dat

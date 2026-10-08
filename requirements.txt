@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+PyQt5>=5.15
+xlrd>=2.0          # only for build_xs_database.py (aromatic .xls files)
